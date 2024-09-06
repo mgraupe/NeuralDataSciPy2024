@@ -87,11 +87,11 @@ All lectures and guided tutorials take place at **9h-11h on Fridays's in room GR
 | 6  | Fri Oct 18 | Bioinformatics and Systems biology II                                                  | Karine  Audouze  | Lecture, Tutorial, Homework, Deepnote Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | 7  | Fri Oct 25 | Regression analysis : correlation analysis, logisitic regression, nonlinear regression | Michael Graupner | Lecture, Tutorial, Homework, Deepnote Link |
 |    | Fri Nov 1  | no course                                                                              |                  |      |
-| 8  | Fri Nov 8  | Biophysical modelling of single neurons : integrate-and-fire neuron                    | Michael Graupner | Lecture, Tutorial, Homework, Deepnote Link     |
+| 8  | Fri Nov 8  | Single neuron simulations with Brian                                                   | Marcel Stimberg  | Lecture, Tutorial, Homework, Deepnote Link     |
 | 9  | Fri Nov 15 | Spiking neural network simulations with Brian                                          | Marcel Stimberg  | Lecture, Tutorial, Homework, Deepnote Link |
 | 10 | Fri Nov 22 | Classification and clustering : SVM, KMeans estimate                                   | Heike Stein      | Lecture, Tutorial, Homework, Deepnote Link  |
-| 10 | Fri Nov 29 | End-of-Course projects presentation; Tutorial about end-of-course projects | Michael Graupner | Lecture, Tutorial, Homework, Deepnote Link  |
-| 11 | Fri Dec 6  | Spectral analysis of analog signals : Fourier transform, Spectrogram, Signal Filtering  | Michael Graupner | Lecture, Tutorial, Homework, Deepnote Link |
+| 10 | Fri Nov 29 | End-of-Course projects presentation; Tutorial about end-of-course projects             | Michael Graupner | Lecture, Tutorial, Homework, Deepnote Link  |
+| 11 | Fri Dec 6  | Spectral analysis of analog signals : Fourier transform, Spectrogram, Signal Filtering | Michael Graupner | Lecture, Tutorial, Homework, Deepnote Link |
 
 
 
