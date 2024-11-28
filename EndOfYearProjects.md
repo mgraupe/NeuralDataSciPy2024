@@ -1,4 +1,4 @@
-# 2023 Course : Neural Data Science with Python 
+# 2024 Course : Neural Data Science with Python 
 
 ![Logo](miscFiles/course-logo.png "Course Logo")
 
@@ -8,7 +8,7 @@
 Your work on the **End-of-Course Project** will make up 50 % of your final course mark. 
 
 One or teams of maximal two students can choose a project from the list below. 
-The evaluation will be based on an annotated jupyter-notebook containing your project work and a presentation/discussion of the jupyter-notebook with the jury. The **project submission deadline is January 7th, 2024 (23h59)**. And the **project presentations** 
+The evaluation will be based on an annotated jupyter-notebook containing your project work and a presentation/discussion of the jupyter-notebook with the jury. The **project submission deadline is January 6th, 2025 (23h59)**. And the **project presentations** 
 will take place on **Thursday January 9th, 2025 from 9h00 through 15h00 in room De Broglie B (1st floor, 45 rue des Saints-Pères, 75006 Paris)**. Each presentation is limited to 10 min followed by 5 min of questions. 
 
 The evaluation jury is composed of Marcel Stimberg, Michael Graupner and another person to be determined. 
