@@ -46,6 +46,15 @@ The images from the training dataset would be the input for the classifier and t
 </tr>
 <!--- ======================== -->
 <tr>
+<td valign="top">1B</td>
+<td valign="top"> <b>Breast cancer diagnostic using classifier</b></td>
+<td valign="top"> Breast cancer is one of the most common cancers affecting women worldwide. Early detection plays a crucial role in effective treatment and improving survival rates. The project tests a possible diagnostic tool to assist medical professionals in decision-making, i.e., by leveraging classifiers to identify breast tumors as benign or malignant using the <a href="https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic">Breast Cancer Wisconsin dataset</a>. By implementing and evaluating various classification models (SVM, random forest and logistic regression), the predictive performance and error rate is computed and compared.  
+</td>
+<td valign="top">implementing different classifiers and testing performance : SVM with different kernels (linear and nonlinear), logistic regression, random forest classification</td>
+<td valign="top"><a href="mailto:michael.graupner@u-paris.fr">Michael Graupner</a></td>
+</tr>
+<!--- ======================== -->
+<tr>
 <td valign="top">2</td>
 <td valign="top"> <b>Exploring existence of clusters in hand-written digits</b></td>
 <td valign="top"> Use the <a href="http://yann.lecun.com/exdb/mnist/">MNIST database</a> of handwritten digits from 0 through 9 and explore the existence and number of distinct clusters in that dataset. Use the k-means clustering algorithm with different number of pre-determined clusters to find. Evalute the separation between the found clusters using the Silhouette analysis. Use both together, the training set 60,000 examples, and a test set of 10,000 examples. The digits have been size-normalized and centered in a fixed-size image.
